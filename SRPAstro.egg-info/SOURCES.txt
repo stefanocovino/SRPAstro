@@ -101,6 +101,7 @@ setup.py
 ./SRP/SRPNet/NetConstants.py
 ./SRP/SRPNet/SendEMail.py
 ./SRP/SRPNet/__init__.py
+./SRP/SRPPhotometry/AirMass.py
 ./SRP/SRPPhotometry/Counts2Mag.py
 ./SRP/SRPPhotometry/Mag2Counts.py
 ./SRP/SRPPhotometry/MinMax.py
@@ -253,6 +254,7 @@ setup.py
 ./build/lib/SRP/SRPNet/NetConstants.py
 ./build/lib/SRP/SRPNet/SendEMail.py
 ./build/lib/SRP/SRPNet/__init__.py
+./build/lib/SRP/SRPPhotometry/AirMass.py
 ./build/lib/SRP/SRPPhotometry/Counts2Mag.py
 ./build/lib/SRP/SRPPhotometry/Mag2Counts.py
 ./build/lib/SRP/SRPPhotometry/MinMax.py
@@ -420,6 +422,7 @@ SRP/SRPNet/GetWebPage.py
 SRP/SRPNet/NetConstants.py
 SRP/SRPNet/SendEMail.py
 SRP/SRPNet/__init__.py
+SRP/SRPPhotometry/AirMass.py
 SRP/SRPPhotometry/Counts2Mag.py
 SRP/SRPPhotometry/Mag2Counts.py
 SRP/SRPPhotometry/MinMax.py
