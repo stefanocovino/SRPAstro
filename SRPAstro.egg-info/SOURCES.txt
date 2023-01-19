@@ -101,7 +101,6 @@ setup.py
 ./SRP/SRPNet/NetConstants.py
 ./SRP/SRPNet/SendEMail.py
 ./SRP/SRPNet/__init__.py
-./SRP/SRPPhotometry/AirMass.py
 ./SRP/SRPPhotometry/Counts2Mag.py
 ./SRP/SRPPhotometry/Mag2Counts.py
 ./SRP/SRPPhotometry/MinMax.py
@@ -131,7 +130,9 @@ setup.py
 ./SRP/SRPPolarimetry/Stokes2Pol.py
 ./SRP/SRPPolarimetry/TransmissionMatrix.py
 ./SRP/SRPPolarimetry/__init__.py
+./SRP/SRPSky/AirMass.py
 ./SRP/SRPSky/AltitudeRate.py
+./SRP/SRPSky/AtmRefraction.py
 ./SRP/SRPSky/AzimuthRate.py
 ./SRP/SRPSky/HourAngle.py
 ./SRP/SRPSky/ParallacticAngle.py
@@ -284,7 +285,9 @@ setup.py
 ./build/lib/SRP/SRPPolarimetry/Stokes2Pol.py
 ./build/lib/SRP/SRPPolarimetry/TransmissionMatrix.py
 ./build/lib/SRP/SRPPolarimetry/__init__.py
+./build/lib/SRP/SRPSky/AirMass.py
 ./build/lib/SRP/SRPSky/AltitudeRate.py
+./build/lib/SRP/SRPSky/AtmRefraction.py
 ./build/lib/SRP/SRPSky/AzimuthRate.py
 ./build/lib/SRP/SRPSky/HourAngle.py
 ./build/lib/SRP/SRPSky/ParallacticAngle.py
@@ -422,7 +425,6 @@ SRP/SRPNet/GetWebPage.py
 SRP/SRPNet/NetConstants.py
 SRP/SRPNet/SendEMail.py
 SRP/SRPNet/__init__.py
-SRP/SRPPhotometry/AirMass.py
 SRP/SRPPhotometry/Counts2Mag.py
 SRP/SRPPhotometry/Mag2Counts.py
 SRP/SRPPhotometry/MinMax.py
@@ -452,7 +454,9 @@ SRP/SRPPolarimetry/RayleighSkyModel.py
 SRP/SRPPolarimetry/Stokes2Pol.py
 SRP/SRPPolarimetry/TransmissionMatrix.py
 SRP/SRPPolarimetry/__init__.py
+SRP/SRPSky/AirMass.py
 SRP/SRPSky/AltitudeRate.py
+SRP/SRPSky/AtmRefraction.py
 SRP/SRPSky/AzimuthRate.py
 SRP/SRPSky/HourAngle.py
 SRP/SRPSky/ParallacticAngle.py
