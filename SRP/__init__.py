@@ -2,9 +2,9 @@
 
 Context : SRP
 Module  : SRP
-Version : 1.3.30
+Version : 1.3.31
 Author  : Stefano Covino
-Date    : 19/01/2023
+Date    : 24/05/2023
 E-mail  : stefano.covino@inaf.it
 URL     : http://www.me.oa-brera.inaf.it/utenti/covino
 
@@ -200,6 +200,7 @@ History : (28/09/2010) First named version.
         : (25/02/2022) V. 4.8.0.
         : (17/01/2023) V. 4.8.1.
         : (19/01/2023) V. 4.8.2.
+        : (24/05/2023) V. 4.8.3.
 """
 
 
@@ -215,6 +216,6 @@ __all__ = ['SRPDatabases', 'SRPCatalogue', 'SRPMath', 'SRPNet',
 
 
 # Version
-__version__ = '4.8.2'
+__version__ = '4.8.3'
 
 #

@@ -54,5 +54,5 @@ setup(
     scripts=lscrex,
     install_requires=['AstroAtmosphere', 'mysql-connector-python', 'py-postgresql',
         'requests', 'astroquery', 'astropy>=0.4', 'scipy', 'astlib>=0.4', 'matplotlib', 'atpy',
-        'asciitable', 'ephem', 'numpy>=1.1', 'dust_extinction'],
+        'ephem', 'numpy>=1.1', 'dust_extinction'],
     )
